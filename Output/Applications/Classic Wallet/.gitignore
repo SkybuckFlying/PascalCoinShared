@@ -1,0 +1,5 @@
+## Ignore changes to compiled units for PascalCoin Classic Wallet
+*.dcu
+
+## Ignore changes to builded executables for PascalCoin Classic Wallet
+*.exe

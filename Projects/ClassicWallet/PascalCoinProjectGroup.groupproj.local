@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.882,E:\SourceCode\ProjectGroup1.groupproj=E:\SourceCode\PascalCoinGit\PascalCoin\src\PascalCoinProjectGroup.groupproj</Transaction>
+  </Transactions>
+	<Default.Personality>
+		<Projects ActiveProject="E:\SourceCode\PascalCoinGit\PascalCoin\Projects\ClassicWallet\pascalcoin_wallet_classic.dproj"/>
+	</Default.Personality>
+</BorlandProject>

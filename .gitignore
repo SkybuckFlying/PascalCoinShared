@@ -1,0 +1,10 @@
+## Ignore changes to following delphi files/extensions/folders:
+*.identcache
+__history/
+__recovery/
+*.rsm
+
+## Ignore changes to Lazarus forms
+*.lfm
+
+## See .gitignore in Output/pplications/Classic Wallet for more ignores
